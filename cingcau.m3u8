@@ -1,5 +1,1 @@
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTMwNzI5NTgsImlzcyI6IlZSIiwiZXhwIjoxNzUzMTM3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2NlMDFiNjAtYTdlNy00MmZjLTk4OWEtM2ZhMTdjYTJhMTQ1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIiwicGF0dGVybiI6IjI0MDAifQ.Kz5tGHeoNcM3634h_SAmYUZVBUu9wcl5OtBEfMdBDus"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
-https://flyin.iptvproxy.workers.dev/https://l04.dp.sooka.my/2400/linear/index.mpd|User-agent=Mozilla/5.0 (Linux; Android 99; Astro UHD 4K Build/1; wv)
+https://github.com/flyinproxy/autosooka/blob/main/channel/aec.m3u8
